@@ -121,7 +121,7 @@ public class Ex03DaemonThread
 		System.out.println("활성화된 상태의 쓰레드 수"
 				+Thread.activeCount());
 		System.out.println("실행중인 쓰레드 명"
-				+Thread.currentThread().getName());
+				+Thread.currentThread());
 		System.out.println("메인함수의 우선순위"
 				+Thread.currentThread().getPriority());
 		System.out.println("메인함수(Main Thread)종료");
