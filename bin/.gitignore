@@ -1,7 +1,4 @@
-/ex21jdbc/
-/ex12inheritance/
-/HelloWorld.class
-/bokang/
+/evaluation/
 /common/
 /ex01start/
 /ex02variable/
@@ -14,10 +11,12 @@
 /ex09package/
 /ex10accessmodifier/
 /ex11static/
+/ex12inheritance/
 /ex13interface/
 /ex15usefulclass/
 /ex16exception/
 /ex17collection/
 /ex19thread/
 /ex20io/
+/ex21jdbc/
 /quiz/
