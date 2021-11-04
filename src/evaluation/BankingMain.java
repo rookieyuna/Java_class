@@ -22,7 +22,7 @@ class Banking {
 			System.out.printf("계좌에서 %d원이 출금됨\n", money);
 		}
 		else {
-			System.out.println("잔고부족!! 출금불가");
+			System.out.println("잔고부족!! 출금이 불가합니다."); 
 		}
 	}
 	public void showAccount() {
