@@ -16,7 +16,7 @@ public class E06FileWriterStream
 			맞춰 문자를 텍스트파일에 저장한다.
 			 */
 			char ch1 = 'A';
-			char ch2 = 'Z';
+			char ch2 = 'B';
 			String str = "안녕하세요";
 			
 			/*
